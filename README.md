@@ -33,4 +33,4 @@ This project enables hands-free mouse control using eye tracking. It utilizes Op
 - MediaPipe
 - PyAutoGUI
 
-
+Feel free to provide feedback or suggestions for improvement. You can reach me at Email: mfauzanfauzan123@gmail.com and: Linkedin
